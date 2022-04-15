@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ravleen 
-- 👀 I’m interested in Python and R
+- 👀 My primary works and contributions are in Python and R
 - 🌱 I’m currently majoring in Statistics from the University of Delhi
 
 <!---
